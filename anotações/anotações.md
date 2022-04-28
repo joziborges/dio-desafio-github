@@ -1,5 +1,5 @@
-Link para download do Git: https://gitforwindows.org/ <br>
-Como instalar e usar o terminal do Git Bash no Windons: https://www.webdevdrops.com/git-bash-como-instalar-usar/ <br>
+### Link para download do Git: https://gitforwindows.org <br>
+### Como instalar e usar o terminal do Git Bash no Windons: <br> https://www.webdevdrops.com/git-bash-como-instalar-usar <br>
 
 Git é o sistema de controle de versões mais usado no mundo da programação. Tanto no cenário open-source, com o GitHub dominando como plataforma de distribuição e colaboração de códigos, quanto no mundo corporativo, onde grandes empresas utilizam repositórios privados de Git para controlar a evolução de códigos criados e modificados por seus colaboradores.
 
